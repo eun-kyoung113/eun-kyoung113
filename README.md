@@ -6,16 +6,16 @@
 ## :snowflake: **SMWU Master Course & Major in Statistics** :snowflake:
 </div>
 
- Hello, I am **Eun kyoung Lee!**👋<br/> 
+ Hello, I am **Eun kyoung Lee!**<br> 
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br/> 
  
 <div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center>
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/-SAS-blue?style=flat-square&logo=SAS&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/-SAS-blue?style=for-the-badge&logo=SAS&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
  <p>
 </div>	
 <br>
@@ -27,9 +27,9 @@
 <div align=center><h2>🛠 Tools 🛠</h2></div>
 <div align=center>
 <p>
-<img src="https://img.shields.io/badge/Rstudio-276DC3?style=flat-square&logo=rstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
  <p>
 </div>
 <br>
