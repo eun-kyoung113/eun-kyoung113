@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
 ## :snowflake: **SMWU Master Course & Major in Statistics** :snowflake:
@@ -48,13 +48,13 @@
 <br>
 
 ### 💻 연구과제
-|연도|keyword|프로젝트|역할|비고|
-|-|-|-|-|-|
-|2023.03~|빅데이터 / Survival Analysis / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(빅데이터 전처리 / Code pipeline 구축)|현재 진행 중|
-|2022.10~2023.02|Time-varying covariate Coxph / Counting-process|(DR-AMD)연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리 / Coxph model 적합)|논문투고예정|
-|2022.03~2022.11|고용보험 빅데이터 / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(빅데이터 전처리 / Code pipeline 구축 / 데이터 시각화)|최종 보고서 발간|
-|2019.12~2023.05|Causal Inference / Rare Exposure / ATT / 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자**(전반적인 논문 작성 / Sandwich Robust variance estimator 공식 유도 + 프로그래밍 R을 이용해 해당 분산 추정량 함수 Hard-coding + Hard-coding한 함수 Debugging 과정)|학위 논문 완성, 논문 저널 투고 예정|
-|2019.12~|**국민건강보험공단 건강검진코호트DB** / Survival Analysis|당뇨병 환자들의 BMI수치와 사망, 심혈관 질환, 암 발생률의 연관성 분석|**공동 1저자**(데이터 신청 / 전반적인 Coding / 결과 정리, 보고)|논문 저널 투고 예정|
+|수행기간|keyword|프로젝트명|역할|획득능력|비고|
+|-|-|-|-|-|-|
+|2023.03~|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS programming 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|현재 진행 중|
+|2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS programming 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|논문투고예정|
+|2022.03~2022.11|**고용보험 빅데이터** / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(자료 분석 실무)|**R programmming 능력**(dtplyr package 이용한 **빅데이터 전처리**, Prediction model, ggplot2 package 이용한 **데이터 시각화**)|최종 보고서 발간|
+|2019.12~2023.05|Causal Inference / **Rare Exposure** / 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자**(전반적인 논문 작성 + Simulation Design + Real Data Analysis 주제 설정)|**수리통계적 전문성**(인과추론, GEE 통한 분산 추정량 유도) / **R programming 능력(사용자 정의 Function Hard-coding / Function Debugging)** / 학술적 글쓰기 능력|학위 논문 완성, 논문 저널 투고 예정|
+|2019.12~|**국민건강보험공단 건강검진코호트DB** / Survival Analysis|당뇨병 환자들의 BMI수치와 사망, 심혈관 질환, 암 발생률의 연관성 분석|**공동 1저자**(데이터 신청 , 자료 분석 실무, 결과 정리 + 보고)|**SAS programming 능력(건강보험공단 빅데이터 전처리 능력** + Survival Analysis) / **데이터 표준화** / Technical Reporting 능력|논문 저널 투고 예정|
 
 <br>
 
