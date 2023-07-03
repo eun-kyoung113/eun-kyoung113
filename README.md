@@ -44,7 +44,7 @@
 ### 🏫 경력
 |근무기간|회사명|부서/직책|담당업무|
 |-|-|-|-|
-|2022.07~2022.09|SK C&C|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
+|2022.07~2022.09|SK Inc.|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
 <br>
 
 ### 💻 연구과제
