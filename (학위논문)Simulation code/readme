@@ -1,15 +1,15 @@
-# 프로젝트명
+### 📜 프로젝트명 📜
 : 처치 군의 수가 적은 상황(Rare Exposure)에서 Average treatment effect on the treated(ATT) 추론 방법론 비교
 
-## 1-1) 수행기간
+### 1-1) 수행기간
 : 2021.12 ~ 2023.05
 
-## 1-2) 프로젝트 내용 & 역할
-: 석사 학위 논문을 목적으로 진행된 연구이며 본인은 1 저자로서 전반적인 논문 작성과 처치 군의 소수인 상황(Rare Exposure) 하에서 처치 군 대상 평균 처치 효과(Average Treatment effect on the treated, ATT)를 추론하는 가중 부여 기반 방법론들의 체계적인 성능 비교 실험 진행하였으며 각 추정량 별로 닫힌 형태의 Sandwich Robust variance estimator를 유도하였다.
+### 1-2) 프로젝트 내용 & 역할
+: 석사 학위 논문을 목적으로 진행된 연구이며 본인은 1 저자로서 전반적인 논문 작성과 처치 군의 소수인 상황(Rare Exposure) 하에서 처치 군 대상 평균 처치 효과(Average Treatment effect on the treated, ATT)를 추론하는 가중 부여 기반 방법론들의 체계적인 성능 비교 실험 진행하였으며 
+  각 추정량 별로 닫힌 형태의 Sandwich Robust variance estimator를 유도하였다.
 
 ### ① 인과추론 공부
-- A Crash Course in Causality: Inferring Causal Effects from Observational Data 온라인 강좌 통해 
-  인과추론 개념 공부
+- A Crash Course in Causality: Inferring Causal Effects from Observational Data 온라인 강좌 통해 인과추론 개념 공부
 - Glynn & Quinn, 2008 / David et al, 2016 / Moodie et al, 2018 paper 공부 통해 가중 부여 기반 ATT 추정 방법론(Standardised mortality ratio weighting estimator / Doubly Robust weighting estimator) 지식 습득
 
 ### ② ATT 추정량 별 분산 추정량 유도 
