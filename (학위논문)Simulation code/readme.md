@@ -1,6 +1,5 @@
 ## 📂 프로젝트 명
-**Rare Exposure 상황에서 Average treatment effect on the treated(ATT) 추론 방법론 비교**
-<br>
+#### **Rare Exposure 상황에서 Average treatment effect on the treated(ATT) 추론 방법론 비교**
 
 ### 1. 수행기간
 2021.12 ~ 2023.05
@@ -10,16 +9,16 @@
 가중 부여 기반 방법론들의 체계적인 성능 비교 실험 진행하였으며 각 추정량 별로 닫힌 형태의 Sandwich Robust variance estimator를 유도하였다.
 
 * **인과추론 공부**
-  > A Crash Course in Causality: Inferring Causal Effects from Observational Data 온라인 강좌 통해 인과추론 개념 공부 <br> <br>
-  > Glynn & Quinn, 2008 / David et al, 2016 / Moodie et al, 2018 paper 공부 통해 가중 부여 기반 ATT 추정 방법론(Standardised mortality ratio weighting estimator / Doubly Robust weighting estimator) 지식 습득
+  - A Crash Course in Causality: Inferring Causal Effects from Observational Data 온라인 강좌 통해 인과추론 개념 공부 <br>
+  - Glynn & Quinn, 2008 / David et al, 2016 / Moodie et al, 2018 paper 공부 통해 가중 부여 기반 ATT 추정 방법론(Standardised mortality ratio weighting estimator / Doubly Robust weighting estimator) 지식 습득
 
 * **ATT 추정량 별 분산 추정량 유도** 
-  > Saul & Hudgens, 2020 / Fan Li, Ph.D., 2022 paper들을 참고하여 각 ATT 추정량 별 GEE(Generalized estimating equation) 설립 통해 ATT 추정량의 근사 분포, 닫힌 형태의 분산 추정량 직접 유도<br> <br>
-  > R programming 이용해 분산 추정량 함수 정의 + Debugging 과정 진행
+  - Saul & Hudgens, 2020 / Fan Li, Ph.D., 2022 paper들을 참고하여 각 ATT 추정량 별 GEE(Generalized estimating equation) 설립 통해 ATT 추정량의 근사 분포, 닫힌 형태의 분산 추정량 직접 유도<br>
+  - R programming 이용해 분산 추정량 함수 정의 + Debugging 과정 진행
 
 * **Simulation Design**
-  > Data generating process 설계 <br> <br>
-  > 성능 비교 실험하는 다양한 Scenario 생성
+  - Data generating process 설계 <br> 
+  - 성능 비교 실험하는 다양한 Scenario 생성
 
 ### 3. 획득 능력 & 역량
 - 수리 통계적 전문성(인과추론, GEE) <br>
