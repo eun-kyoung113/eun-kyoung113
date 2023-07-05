@@ -1,5 +1,5 @@
 ## 📂 프로젝트 명
-#### Progression of Diabetic Retinopathy in Presence of Age-related Macular Degeneration** <br>
+#### Progression of Diabetic Retinopathy in Presence of Age-related Macular Degeneration <br>
 (연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행)
 
 ### 1. 수행기간
