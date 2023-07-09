@@ -82,7 +82,7 @@ quit;
 /* MERGE data who have cancer history for lung cancer outcome */
 DATA mine.final_history_yes;
 SET yes_all check_ID(DROP = between_yes);
-IF OUT_DT = fdx1 or ECNY_DT >= fdx1 then lung_cancer_history=1;
+IF ECNY_DT >= fdx1 then lung_cancer_history=1;
 ELSE lung_cancer_history=0;
 run;
 
