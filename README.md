@@ -7,6 +7,7 @@
 </div>
 
 👋 Hello, I am **Eun kyoung Lee!**<br> 
+ I'm a **Data Scientist of WELLXECON** now <br>
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br/> 
  
 <div align=center><h2>📚 STACKS 📚</h2></div>
@@ -28,6 +29,7 @@
 <div align=center>
 <p>
 <img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
  <p>
@@ -44,10 +46,11 @@
 ### 🏫 경력
 |근무기간|회사명|부서/직책|담당업무|
 |-|-|-|-|
+|2023.09~|Wellxecon|데이터 분석팀 / 매니저|Data Scientist|
 |2022.07~2022.09|SK Inc.|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
 <br>
 
-### 💻 연구과제
+### 💻 Experience & Project
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
 |2023.05~2023.11|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간 예정|
