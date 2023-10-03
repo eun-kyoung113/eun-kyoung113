@@ -3,13 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## :snowflake: **Sookmyung Women's University Master Course & Major in Statistics** :snowflake:
+## 💁 Data Scientist of Healthcare Company Wellxecon 💁
+👋 Hello, I am **Eun kyoung Lee!**<br> 
+ I'm a **Master of Sookmyung Women's University and Data Scientist of WELLXECON** now <br>
+ My major is Statistics <br>
+ How to reach me: **ilojeyou98@sookmyung.ac.kr**<br/> 
 </div>
 
-👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Data Scientist of WELLXECON** now <br>
- How to reach me: **ilojeyou98@sookmyung.ac.kr**<br/> 
- 
+<br>
 <div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center>
 <p>
@@ -50,9 +51,11 @@
 |2022.07~2022.09|SK Inc.|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
 <br>
 
-### 💻 Experience & Project
+### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
+|2023.09~현재 진행 중|**미래에셋** / **K-CURE** / 생존률 예측|암종별 치료행태 분석 및 생존률 예측 모형 구축|**담당 실무진**(데이터 신청 + 데이터 전처리 및 통계 모형 적합)|-|-|
+|2023.09~현재 진행 중|**메리츠 화재** / **국민건강보험공단 표본코호트DB** / 건강위험요인 추출 / 예측 모형 구축|암, 뇌혈관, 심혈관 질환 별 건강위험요인 발굴 및 위험률 예측 모형 구축|**보조 실무진**(자료 분석 실무 - 수술비 예측 모형 구축 및 이를 위한 데이터 전처리)|-|-|
 |2023.05~2023.11|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간 예정|
 |2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS & SQL program 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|**고용보험 빅데이터** / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(자료 분석 실무)|**R program 능력**(dtplyr package 이용한 **빅데이터 전처리**, Prediction model, ggplot2 package 이용한 **데이터 시각화**)|최종 보고서 발간|
