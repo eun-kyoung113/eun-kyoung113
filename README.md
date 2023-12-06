@@ -7,7 +7,8 @@
 👋 Hello, I am **Eun kyoung Lee!**<br> 
  I'm a **Master of Sookmyung Women's University and Data Scientist of WELLXECON** now <br>
  My major is Statistics <br>
- How to reach me: **ilojeyou98@sookmyung.ac.kr**<br/> 
+ How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
+ My Linked-in page : **www.linkedin.com/in/은경-이-b7909b286**<br/>
 </div>
 
 <br>
