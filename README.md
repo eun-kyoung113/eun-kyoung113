@@ -23,7 +23,7 @@
 <br>
 
 <div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>Causal Inference / Survival Analysis / 의료 데이터 분석</h3></div>	
+<div align=center><h3>Causal Inference / Survival Analysis / Health care / 개인맞춤의료</h3></div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
@@ -54,10 +54,10 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
-|2023.05~2023.11|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간 예정|
+|2023.05~2023.08|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간|
 |2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS & SQL program 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|**고용보험 빅데이터** / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(자료 분석 실무)|**R program 능력**(dtplyr package 이용한 **빅데이터 전처리**, Prediction model, ggplot2 package 이용한 **데이터 시각화**)|최종 보고서 발간|
-|2021.12~2023.05|**Causal Inference / Rare Exposure** / 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자**(전반적인 논문 작성 + Simulation Design + Real Data Analysis 주제 설정)|**수리통계적 전문성**(인과추론, GEE 통한 분산 추정량 유도) / **R program 능력(사용자 정의 함수 Hard-coding / Function Debugging)** / 학술적 글쓰기 능력|**한국정보통계학회 춘계학술대회 학생 우수 연구 / 한국통계학회 하계학술대회 포스터논문상 수상**, 논문 저널 투고 예정|
+|2021.12~2023.05|**Causal Inference / Rare Exposure** / 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자**(전반적인 논문 작성 + Simulation Design + Real Data Analysis 주제 설정)|**수리통계적 전문성**(인과추론, GEE 통한 분산 추정량 유도) / **R programming 능력(사용자 정의 함수 Hard-coding / Function Debugging)** / 학술적 글쓰기 능력|**한국정보통계학회 춘계학술대회 학생 우수 연구 / 한국통계학회 하계학술대회 포스터논문상 수상**, 응용통계학회 투고 예정|
 |2021.12~현재 진행 중|**국민건강보험공단 건강검진코호트DB** / Survival Analysis|건강검진코호트DB에 기반한 당뇨병 환자군의 비만도와 Adverse event 발생률 간의 연관성 추정|**공동 1저자**(IRB 심의면제승인 + 건보공단에 데이터 신청, 자료 분석 실무, 결과 정리 + 보고)|**SAS programming 능력(건강보험 청구 자료 전처리 능력** + Survival Analysis) / **데이터 표준화** / Technical Reporting 능력|**공동 1저자**로 2개의 논문 작성 중|
 
 <br>
