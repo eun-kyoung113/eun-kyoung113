@@ -55,7 +55,7 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
-|2023.10~2024.02|Data EDA 및 Modeling|MRTZ Project - 주요 질환 별 건강 위험 요인 발굴, 위험률 예측 모형 구축|Supporter|**SAS & SQL program 능력** / Reporting 역량|최종 보고서 발간 예정|
+|2023.10~2024.02|Data EDA 및 Modeling|MRTZ Project - 주요 질환 별 건강 위험 요인 발굴, 위험률 예측 모형 구축|Supporter(자료 분석 실무 보조)|**SAS & SQL program 능력** / Reporting 역량|최종 보고서 발간 예정|
 |2023.05~2023.08|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간|
 |2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS & SQL program 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|**고용보험 빅데이터** / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(자료 분석 실무)|**R program 능력**(dtplyr package 이용한 **빅데이터 전처리**, Prediction model, ggplot2 package 이용한 **데이터 시각화**)|최종 보고서 발간|
