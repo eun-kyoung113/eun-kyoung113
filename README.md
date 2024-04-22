@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Scientist of Healthcare Company OntactHealth 💁
+## 💁 Data Analyst of Healthcare Company OntactHealth 💁
 👋 Hello, I am **Eun kyoung Lee!**<br> 
  I'm a **Master of Statistics and Data Analyst of OntactHealth** now <br>
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
@@ -23,7 +23,7 @@
 <br>
 
 <div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>Causal Inference / Survival Analysis / Health care / 개인맞춤의료</h3></div>	
+<div align=center><h3>Causal Inference / Survival Analysis / Big-Data Analysis</h3></div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
@@ -31,7 +31,7 @@
 <p>
 <img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-F9AB00?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
  <p>
 </div>
@@ -55,7 +55,7 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
-|2023.10~2024.02|Data EDA 및 Modeling|메리츠 화재와 진행중인 Project - 주요 질환 별 건강 위험 요인 발굴, 위험률 예측 모형 구축|Supporter(자료 분석 실무 보조)|**SAS & SQL program 능력** / Reporting 역량|최종 보고서 발간 예정|
+|2024.01~2024.02|Data EDA 및 통계량 추출|메리츠 화재 의뢰 과제 - 추적 관찰 기간 동안, 경증 질환 발병 관련 통계량 추출|담당 실무자|**SAS & SQL program 능력** / code pipeline 구축 역량|최종 결과 excel file로 전달 / 추가 계약 달성|
 |2023.05~2023.08|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간|
 |2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS & SQL program 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|**고용보험 빅데이터** / Prediction|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원**(자료 분석 실무)|**R program 능력**(dtplyr package 이용한 **빅데이터 전처리**, Prediction model, ggplot2 package 이용한 **데이터 시각화**)|최종 보고서 발간|
