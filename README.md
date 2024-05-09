@@ -54,7 +54,7 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|획득능력|주요 성과|
 |-|-|-|-|-|-|
-|2024.03~|추천 알고리즘 기획 및 구축|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|**담당 실무자**(DB 통합, 알고리즘 기획 및 구현, DB 설계 support)|**Python program 능력(두 개의 DB 통합 및 홈페이지 crawling)** / 알고리즘 기획 및 구현 / Data schema 및 ERD 작성 역량|자사 앱 및 타사 납품 예정|
+|2024.03~|추천 알고리즘 기획 및 구축|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|**담당 실무자**(DB 통합, 알고리즘 기획 및 구현, DB 설계 support)|**Python program 능력(두 개의 DB 통합 및 홈페이지 crawling)** / 알고리즘 기획 및 구현 / Data 구축 및 정제 역량|자사 앱 및 타사 납품 예정|
 |2024.01~2024.02|Data EDA 및 통계량 추출|메리츠 화재 의뢰 과제 - 추적 관찰 기간 동안, 경증 질환 발병 관련 통계량 추출|**담당 실무자**(데이터 전처리 및 통계량 추출, 의사소통 담당)|**SAS & SQL program 능력(건강보험 청구 자료 전처리 및 통계량 추출)** / code pipeline 구축 및 결과 reporting 역량|최종 결과 excel file로 전달 / **추가 계약 달성**|
 |2023.05~2023.08|**고용보험 빅데이터 / Survival Analysis** / Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원**(자료 분석 실무, 보고서 작성 보조)|**SAS & SQL program 능력(1억 건의 빅데이터 전처리)** / **Code pipeline 구축** 역량|최종 보고서 발간|
 |2022.10~2023.02|**Time-varying covariate Coxph** / Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자**(데이터 전처리, Coxph model 적합)|**SAS & SQL program 능력(Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)**|**공동 저자**로 논문투고예정|
