@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Analyst of Healthcare Company OntactHealth 💁
+## 💁 Data Analyst of Healthcare Company <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span> 💁
 👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Master of Statistics and Data Analyst of OntactHealth** now <br>
+ I'm a **Master of Statistics and Data Analyst of <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span>** now <br>
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
 </div>
 
@@ -29,8 +29,8 @@
 <div align=center>
 <p>
 <img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
- <img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio-F9AB00?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
  <p>
 </div>
