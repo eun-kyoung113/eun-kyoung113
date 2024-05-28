@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Analyst of Healthcare Company <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span> 💁
+## 💁 Data Analyst of Healthcare Company ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#E96E16}Health}}$ 💁
 👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Master of Statistics and Data Analyst of <span style="color:#e96e16">Ontact</span><span style="color:#ef8a07">Health</span>** now <br>
+ I'm a **Master of Statistics and Data Analyst of ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#E96E16}Health}}$** now <br>
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
 </div>
 
@@ -22,7 +22,7 @@
 <br>
 
 <div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>Causal Inference / Survival Analysis / Big-Data Analysis</h3></div>	
+<div align=center><h3>Causal Inference / Big-Data Analysis</h3></div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
