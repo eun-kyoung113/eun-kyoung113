@@ -21,8 +21,12 @@
 </div>	
 <br>
 
-<div align=center><h2>💻 My Interest 💻 </h2></div>	
-<div align=center><h3>Causal Inference ${\cdot}$ A / B Test ${\cdot}$ Big-Data Analysis</h3></div>	
+<div align=center><h2>💻 My Interests 💻 </h2></div>	
+<div align=center>  
+  <img src="https://img.shields.io/badge/Causal Inference-FF6F00?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/A/B test-d9ead3?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Big data Analysis-3776AB?style=for-the-badge">
+</div>	
 <br>
 
 <div align=center><h2>🛠 Tools 🛠</h2></div>
@@ -63,7 +67,7 @@
 |기간|구분|기관/장소|내용|
 |-|-|-|-|
 |2024.05~진행 중|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
-|2024.03~2024.05|개인 스터디|Inflearn|BigQuery 및 SQL 학습|
+|2024.03~2024.05|개인 스터디|Inflearn|BigQuery 학습|
 |2023.05~2023.12|스터디 모임|개인 주최|ISLR(An Introduction to Statistical Learning with Python) 책 정독 및 내용 정리|  
 |2021.08~2021.11|교육|한국보건복지인력개발원|의료 인공지능 데이터 분석 기본 과정 교육 수료|
 |2021.07~2021.08|교육|정보통신산업진흥원|AI 온라인 실무 기본 / 응용 교육 과정 수료|
@@ -83,7 +87,7 @@
 |2022.10~2023.02|${\star}$ Time-varying covariate Coxph <br> ${\star}$ Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자** <br> ${\cdot}$ 데이터 전처리 <br> ${\cdot}$ Coxph model 적합|${\surd}$ SAS & SQL program 능력 <br> ${\cdot}$ Counting-process data format 생성 <br> ${\cdot}$ time-varying covariate Cox-ph model fitting|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|${\star}$ 고용보험 빅데이터 <br> ${\star}$ Prediction <br> ${\star}$ Modeling|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원** <br> ${\cdot}$ 자료 분석 실무|${\surd}$ R program 능력 <br> ${\cdot}$ dtplyr package 이용한 빅데이터 전처리 <br> ${\cdot}$ Prediction model 구축 <br> ${\cdot}$ ggplot2 package 이용한 데이터 시각화|최종 보고서 발간|
 |2021.12~현재 진행 중|${\star}$ 국민건강보험공단 건강검진코호트DB <br> ${\star}$ Survival Analysis|건강검진코호트DB에 기반한 당뇨병 환자군의 비만도와 Adverse event 발생률 간의 연관성 추정|**공동 1저자** <br> ${\cdot}$ IRB 심의면제승인 <br> ${\cdot}$ 건보공단에 데이터 신청 <br> ${\cdot}$ 자료 분석 실무 <br> ${\cdot}$ 결과 정리 + 보고)|${\surd}$ SAS programming 능력 <br> ${\cdot}$ 건강보험 청구 자료 전처리 능력 <br> ${\cdot}$ Survival Analysis <br>  ${\surd}$ 데이터 표준화 <br> ${\surd}$ Technical Reporting 능력|**공동 1저자**로 2개의 논문 작성 중|
-|2021.12~2023.05|${\star}$ Causal Inference <br> ${\star}$ Rare Exposure <br> ${\star}$ 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자** <br> ${\cdot}$ 전반적인 논문 작성 <br> ${\cdot}$ Simulation Design <br> ${\cdot}$ Real Data Analysis 주제 설정|${\surd}$ 수리통계적 전문성 인과추론 <br> ${\surd}$ GEE 통한 분산 추정량 유도 <br> ${\surd}$ R programming 능력 <br> ${\cdot}$ 사용자 정의 함수 Hard-coding <br> ${\cdot}$ Function Debugging <br> ${\cdot}$ 학술적 글쓰기 능력|**${\cdot}$ 한국정보통계학회 춘계학술대회 학생 우수 연구 <br> ${\cdot}$ 한국통계학회 하계학술대회 포스터논문상 수상** <br> ${\cdot}$ 응용통계학회 투고 예정|
+|2021.12~2023.05|${\star}$ Causal Inference <br> ${\star}$ Rare Exposure <br> ${\star}$ 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자** <br> ${\cdot}$ 전반적인 논문 작성 <br> ${\cdot}$ Simulation Design <br> ${\cdot}$ Real Data Analysis 주제 설정|${\surd}$ 수리통계적 전문성 <br> ${\surd}$ 인과추론 <br> ${\surd}$ GEE 통한 분산 추정량 유도 <br> ${\surd}$ R programming 능력 <br> ${\cdot}$ 사용자 정의 함수 생성 <br> ${\cdot}$ Function Debugging <br> ${\cdot}$ 학술적 글쓰기 능력|**${\cdot}$ 한국정보통계학회 춘계학술대회 학생 우수 연구 <br> ${\cdot}$ 한국통계학회 하계학술대회 포스터논문상 수상** <br> ${\cdot}$ 응용통계학회 투고 예정|
 
 <br>
 
