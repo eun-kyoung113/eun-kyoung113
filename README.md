@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Analyst of Healthcare Company ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#E96E16}Health}}$ 💁
+## 💁 Data Analyst of Healthcare Company ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#ef8a07}Health}}$ 💁
 👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Master of Statistics and Data Analyst of ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#E96E16}Health}}$** now <br>
+ I'm a **Master of Statistics and Data Analyst of ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#ef8a07}Health}}$** now <br>
  How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
 </div>
 
