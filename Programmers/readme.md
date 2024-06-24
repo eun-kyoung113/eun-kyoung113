@@ -9,7 +9,7 @@
    - Lv2. 및 2018 KAKAKO BLIND RECRUITMENT 연습 문제 일부 풀이
 * **SQL**
     - LV3 ~ LV5 단계 문제 풀이
-<br>
+
 ### 3. 참고 link
-* [https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1]
+* https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1
 
