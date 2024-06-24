@@ -11,5 +11,5 @@
     - LV3 ~ LV5 단계 문제 풀이
 <br>
 ### 3. 참고 link
-* [https://sapphire-lotus-719.notion.site/BigQuery-SQL-Study-3662af8579524fc38744f4edaae11f58?pvs=4](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1)
+* [https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1]
 
