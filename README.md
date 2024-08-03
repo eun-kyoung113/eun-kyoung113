@@ -23,9 +23,8 @@
 
 <div align=center><h2>💻 My Interests 💻 </h2></div>	
 <div align=center>  
-  <img src="https://img.shields.io/badge/Causal Inference-FF6F00?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/A/B test-d9ead3?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Big data Analysis-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Causal Inference-0D597F?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Survival Analysis-002260?style=for-the-badge">
 </div>	
 <br>
 
@@ -40,6 +39,7 @@
 <img src="https://img.shields.io/badge/Notion-1877f2?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
@@ -80,12 +80,12 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|주요 성과|
 |-|-|-|-|-|
-|2024.01~현재 진행 중중|${\cdot}$ 추천 알고리즘 기획 및 구축 <br> ${\cdot}$ DB 설계|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|**담당 실무자** <br> ${\cdot}$ DB 통합, 알고리즘 기획 및 구현 <br> ${\cdot}$ DB 설계 support|자사 앱 및 타사 납품 예정|
-|2023.05~2023.08|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Survival Analysis <br> ${\cdot}$ Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|**연구보조원** <br> ${\cdot}$ 자료 분석 실무 <br> ${\cdot}$ 보고서 작성 보조|최종 보고서 발간|
-|2022.10~2023.02|${\cdot}$ Time-varying covariate Coxph <br> ${\cdot}$ Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|**공동저자** <br> ${\cdot}$ 데이터 전처리 <br> ${\cdot}$ Coxph model 적합|**공동 저자**로 논문투고예정|
-|2022.04~2022.11|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Prediction <br> ${\cdot}$ Modeling|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|**연구보조원** <br> ${\cdot}$ 자료 분석 실무|최종 보고서 발간|
-|2021.12~현재 진행 중|${\cdot}$ 국민건강보험공단 건강검진코호트DB <br> ${\cdot}$ Survival Analysis|건강검진코호트DB에 기반한 당뇨병 환자군의 비만도와 Adverse event 발생률 간의 연관성 추정|**공동 1저자** <br> ${\cdot}$ IRB 심의면제승인 <br> ${\cdot}$ 건보공단에 데이터 신청 <br> ${\cdot}$ 자료 분석 실무 <br> ${\cdot}$ 결과 정리 + 보고|**공동 1저자**로 2개의 논문 작성 중|
-|2021.12~2023.05|${\cdot}$ Causal Inference <br> ${\cdot}$ Rare Exposure <br> ${\cdot}$ 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|**제 1저자** <br> ${\cdot}$ 전반적인 논문 작성 <br> ${\cdot}$ Simulation Design <br> ${\cdot}$ Real Data Analysis 주제 설정|${\cdot}$ 한국정보통계학회 춘계학술대회 학생 우수 연구 <br> ${\cdot}$ 한국통계학회 하계학술대회 포스터논문상 수상 <br> **${\cdot}$ 응용통계학회 저널 게재 확정**|
+|2024.01~현재 진행 중|${\cdot}$ 추천 알고리즘 기획 및 구축 <br> ${\cdot}$ Data 수집 및 정제 <br> ${\cdot}$ DB 설계|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|담당 실무자|자사 앱 및 타사 납품 예정|
+|2023.05~2023.08|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Survival Analysis <br> ${\cdot}$ Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|연구보조원|최종 보고서 발간|
+|2022.10~2023.02|${\cdot}$ Time-varying covariate Coxph <br> ${\cdot}$ Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|공동저자|**공동 저자**로 논문투고예정|
+|2022.04~2022.11|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Prediction Modeling <br> ${\cdot}$ Data visualization|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|연구보조원|최종 보고서 발간|
+|2021.12~현재 진행 중|${\cdot}$ 국민건강보험공단 건강검진코호트DB <br> ${\cdot}$ Survival Analysis|건강검진코호트DB에 기반한 당뇨병 환자군의 비만도와 Adverse event 발생률 간의 연관성 추정|공동 1저자|**공동 1저자**로 2개의 논문 작성 중|
+|2021.12~2023.05|${\cdot}$ Causal Inference <br> ${\cdot}$ Rare Exposure <br> ${\cdot}$ 건강보험청구자료|(**학위논문**)처치 군이 소수인 상황에서 처치 군 대상 평균 처치 효과 추론 방법론 비교|제 1저자|${\cdot}$ 한국정보통계학회 춘계학술대회 학생 우수 연구 <br> ${\cdot}$ 한국통계학회 하계학술대회 포스터논문상 수상 <br> **${\cdot}$ 응용통계학회 저널 게재 확정**|
 
 <br>
 
