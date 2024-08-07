@@ -32,6 +32,7 @@
 <div align=center>
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Rstudio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white"/>
  <br>
@@ -66,8 +67,9 @@
 ### 📆 경험
 |기간|구분|기관/장소|내용|
 |-|-|-|-|
-|2024.05~진행 중|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
-|2024.03~2024.05|개인 스터디|Inflearn|BigQuery 학습|
+|2024.08~현재 진행 중|개인 스터디|Inflearn|BigQuery advanced ver(Funnel, Retention, window 함수 등) 학습|
+|2024.05~2024.08|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
+|2024.03~2024.05|개인 스터디|Inflearn|BigQuery basic(기본 문법, Sub-query 등) 학습|
 |2023.05~2023.12|스터디 모임|개인 주최|ISLR(An Introduction to Statistical Learning with Python) 책 정독 및 내용 정리|  
 |2021.08~2021.11|교육|한국보건복지인력개발원|의료 인공지능 데이터 분석 기본 과정 교육 수료|
 |2021.07~2021.08|교육|정보통신산업진흥원|AI 온라인 실무 기본 / 응용 교육 과정 수료|
