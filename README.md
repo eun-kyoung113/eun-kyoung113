@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eun-kyoung's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 
-## 💁 Data Analyst of Healthcare Company ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#ef8a07}Health}}$ 💁
+## 💁 Data Analyst 💁
 👋 Hello, I am **Eun kyoung Lee!**<br> 
- I'm a **Master of Statistics and Data Analyst of ${\textsf{\color{#E96E16}Ontact}}{\textsf{\color{#ef8a07}Health}}$** now <br>
- How to reach me: **ilojeyou98@sookmyung.ac.kr**<br> 
+ I'm a **Master of Statistics and working as a data analyst** <br>
+ How to reach me: **eklee.katelen@gmail.com**<br> 
 </div>
 
 <br>
@@ -59,7 +59,7 @@
 ### 🏫 경력
 |근무기간|회사명|부서/직책|담당업무|
 |-|-|-|-|
-|2024.01~|OntactHealth|Predict Health 본부 / 파트너|Data Analyst|
+|2024.01~2024.10|OntactHealth|Predict Health 본부 / 파트너|Data Analyst|
 |2023.09~2023.12|Wellxecon|데이터 분석팀 / 매니저|Data Scientist|
 |2022.07~2022.09|SK Inc.|Portforlio 기획실 / 인턴|RA(Research & Data Analysis)|
 <br>
@@ -67,8 +67,8 @@
 ### 📆 경험
 |기간|구분|기관/장소|내용|
 |-|-|-|-|
-|2024.08~현재 진행 중|개인 스터디|Inflearn|BigQuery advanced ver(Funnel, Retention, window 함수 등) 학습|
-|2024.05~2024.08|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
+|2024.08~2024.11|개인 스터디|Inflearn|BigQuery advanced (Funnel, Retention, window 함수 등) 학습|
+|2024.05~2024.10|스터디 모임|가짜 연구소|인과 추론과 실무(인과추론의 실무 사례 템플릿 및 한글화)|
 |2024.03~2024.05|개인 스터디|Inflearn|BigQuery basic(기본 문법, Sub-query 등) 학습|
 |2023.05~2023.12|스터디 모임|개인 주최|ISLR(An Introduction to Statistical Learning with Python) 책 정독 및 내용 정리|  
 |2021.08~2021.11|교육|한국보건복지인력개발원|의료 인공지능 데이터 분석 기본 과정 교육 수료|
@@ -82,7 +82,7 @@
 ### 💻 프로젝트
 |수행기간|keyword|프로젝트명|역할|주요 성과|
 |-|-|-|-|-|
-|2024.01~현재 진행 중|${\cdot}$ 추천 알고리즘 기획 및 구축 <br> ${\cdot}$ Data 수집 및 정제 <br> ${\cdot}$ DB 설계|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|담당 실무자|자사 앱 및 타사 납품 예정|
+|2024.01~2024.10|${\cdot}$ 추천 알고리즘 기획 및 구축 <br> ${\cdot}$ Data 수집 및 정제 <br> ${\cdot}$ DB 설계|건강 유형 별, 맞춤 건강 기능 식품 추천 알고리즘 고도화|담당 실무자|자사 앱 및 타사 납품 예정|
 |2023.05~2023.08|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Survival Analysis <br> ${\cdot}$ Longitudinal Data|**산업안전보건연구원** - 고용 이력에 따른 암 발생 위험도 추정모형 개발|연구보조원|최종 보고서 발간|
 |2022.10~2023.02|${\cdot}$ Time-varying covariate Coxph <br> ${\cdot}$ Counting-process|연령 관련 황반 변성 동반 시 당뇨 망막병증의 진행|공동저자|**공동 저자**로 논문투고예정|
 |2022.04~2022.11|${\cdot}$ 고용보험 빅데이터 <br> ${\cdot}$ Prediction Modeling <br> ${\cdot}$ Data visualization|**산업안전보건연구원** - 근로자 집단 암 발병 예측 모형 시범 개발|연구보조원|최종 보고서 발간|
