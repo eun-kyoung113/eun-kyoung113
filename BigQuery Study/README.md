@@ -1,7 +1,7 @@
 ## 📂 BigQuery(SQL) Study
 
 ### 1. 수행기간
-2024.03 ~ 2025.05
+2024.03 ~ 2025.01
 <br>
 
 ### 2. 스터디 내용
@@ -13,8 +13,12 @@ Inflearn에서 제공하는 온라인 강의로, Google cloud의 Data-warehouse�
 * 생산성 도구(template)
     - 나만의 SQL cheatsheet
 * Debugging 하는 방안
+* Funnel 분석
+* Retention
+* 윈도우 함수
 
 ### 3. 강의 내용 정리 link
 * https://sapphire-lotus-719.notion.site/BigQuery-SQL-Study-3662af8579524fc38744f4edaae11f58?pvs=4
+* https://sapphire-lotus-719.notion.site/BigQuery-SQL-Study-9fb56fa954f44bab946dabb9a760e7f8?source=copy_link
 
 
