@@ -19,6 +19,3 @@
 
 ### 3. 획득 역량 / 능력
 - SAS / SQL 프로그래밍 능력 (Counting-process data format 생성 + time-varying covariate Cox-ph model fitting)
-
-### 4. 주요 성과
-- 공동 저자로 논문 투고 예정
